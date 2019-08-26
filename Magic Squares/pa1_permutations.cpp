@@ -1,3 +1,8 @@
+/*
+ * This file accomplishes the same task but with the concept of permutation in order to find every possible magic square. The file is still
+ * under construction however. The program woks but at an insupportable time complexity of O(n!) 
+ */
+
 #include <iostream>
 #include <math.h>
 using namespace std;
